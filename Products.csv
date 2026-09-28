@@ -1,0 +1,41 @@
+ProductID,ProductName,Category,UnitPrice,CostPrice,Brand
+P001,Wireless Earbuds,Electronics,7302.55,4325.75,FitPro
+P002,Bluetooth Speaker,Electronics,8775.01,6714.76,FitPro
+P003,Power Bank,Electronics,5598.44,3916.66,EverGlow
+P004,Smart Watch,Electronics,5098.31,3362.83,FitPro
+P005,USB-C Hub,Electronics,8374.94,4411.97,EverGlow
+P006,Keyboard,Electronics,2552.54,1344.67,UrbanNest
+P007,Mouse,Electronics,2603.78,1295.19,DailyEase
+P008,Webcam,Electronics,8308.53,6147.09,DailyEase
+P009,Phone Case,Electronics,252.73,166.89,UrbanNest
+P010,T-Shirt,Fashion,5182.63,3588.57,Astra
+P011,Jeans,Fashion,811.35,394.46,EverGlow
+P012,Sneakers,Fashion,5770.91,4449.22,Nova
+P013,Backpack,Fashion,1006.47,734.45,FitPro
+P014,Kurta,Fashion,2092.17,1137.52,Astra
+P015,Jacket,Fashion,4191.08,2240.33,UrbanNest
+P016,Sunglasses,Fashion,3455.47,1848.75,EverGlow
+P017,Wallet,Fashion,3053.57,1744.42,FitPro
+P018,Watch,Fashion,5445.77,3471.28,Nova
+P019,Mixer Grinder,Home & Kitchen,1568.1,955.89,FitPro
+P020,Water Bottle,Home & Kitchen,636.91,361.36,Nova
+P021,Cookware Set,Home & Kitchen,2593.51,1720.94,EverGlow
+P022,Bedsheet,Home & Kitchen,3930.33,2051.04,FitPro
+P023,Desk Lamp,Home & Kitchen,4088.99,2321.09,DailyEase
+P024,Storage Box,Home & Kitchen,2096.01,1236.45,FitPro
+P025,Coffee Mug,Home & Kitchen,1200.59,740.55,Astra
+P026,Cushion,Home & Kitchen,1174.83,840.65,EverGlow
+P027,Face Wash,Beauty,6169.68,3331.02,Astra
+P028,Moisturizer,Beauty,4836.02,3067.34,DailyEase
+P029,Shampoo,Beauty,598.67,393.76,Astra
+P030,Sunscreen,Beauty,8862.12,4377.31,Nova
+P031,Perfume,Beauty,266.65,176.59,DailyEase
+P032,Hair Dryer,Beauty,8517.85,4524.32,UrbanNest
+P033,Lip Balm,Beauty,6923.62,3458.46,DailyEase
+P034,Yoga Mat,Sports,3086.48,2360.13,Nova
+P035,Dumbbells,Sports,4575.99,3522.09,Astra
+P036,Cricket Bat,Sports,1745.11,1260.88,Astra
+P037,Football,Sports,4885.72,2791.62,UrbanNest
+P038,Running Bottle,Sports,4601.31,2343.45,EverGlow
+P039,Resistance Bands,Sports,7293.56,4998.06,Nova
+P040,Gym Gloves,Sports,3693.23,2260.43,EverGlow

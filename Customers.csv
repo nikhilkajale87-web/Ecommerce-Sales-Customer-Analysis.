@@ -1,0 +1,181 @@
+CustomerID,CustomerName,Gender,Age,City,State,Region,SignupDate,CustomerSegment
+C0001,Diya Joshi,Female,26,Delhi,Delhi,North,2025-01-29,Returning
+C0002,Aarav Patil,Female,32,Lucknow,Uttar Pradesh,North,2023-02-02,Returning
+C0003,Sneha Gupta,Female,46,Chandigarh,Chandigarh,North,2025-01-03,Returning
+C0004,Riya Singh,Male,27,Chandigarh,Chandigarh,North,2024-12-15,New
+C0005,Priya Patil,Male,40,Bengaluru,Karnataka,South,2023-04-05,Returning
+C0006,Vihaan Pawar,Male,23,Lucknow,Uttar Pradesh,North,2024-07-03,Returning
+C0007,Aditya Sharma,Prefer not to say,32,Chennai,Tamil Nadu,South,2024-12-22,Returning
+C0008,Vihaan Gupta,Male,47,Chandigarh,Chandigarh,North,2025-06-06,Returning
+C0009,Saanvi Joshi,Prefer not to say,35,Chennai,Tamil Nadu,South,2024-01-15,Returning
+C0010,Aanya Verma,Male,42,Chandigarh,Chandigarh,North,2024-06-30,New
+C0011,Vivaan Joshi,Female,38,Ahmedabad,Gujarat,West,2025-05-13,New
+C0012,Ishaan Pawar,Prefer not to say,38,Chandigarh,Chandigarh,North,2025-07-24,New
+C0013,Neha Verma,Male,26,Guwahati,Assam,East,2025-06-24,New
+C0014,Ishaan Gupta,Male,32,Kochi,Kerala,South,2025-07-08,VIP
+C0015,Vivaan Das,Female,27,Surat,Gujarat,West,2023-04-04,Returning
+C0016,Priya Reddy,Male,51,Kolkata,West Bengal,East,2024-01-30,New
+C0017,Sneha Khan,Male,59,Delhi,Delhi,North,2024-11-29,New
+C0018,Neha Sharma,Prefer not to say,64,Kochi,Kerala,South,2023-06-11,New
+C0019,Anaya Das,Prefer not to say,50,Mumbai,Maharashtra,West,2025-06-10,Returning
+C0020,Sai Mehta,Prefer not to say,18,Ahmedabad,Gujarat,West,2025-02-19,Returning
+C0021,Saanvi Pawar,Male,33,Kolkata,West Bengal,East,2023-04-25,New
+C0022,Karan Das,Female,52,Delhi,Delhi,North,2025-01-19,Returning
+C0023,Sai Kulkarni,Prefer not to say,56,Surat,Gujarat,West,2024-07-16,New
+C0024,Anaya Gupta,Prefer not to say,59,Pune,Maharashtra,West,2024-12-31,New
+C0025,Aanya Patil,Male,19,Kolkata,West Bengal,East,2023-09-11,Returning
+C0026,Aditya Nair,Prefer not to say,21,Pune,Maharashtra,West,2023-01-08,New
+C0027,Rahul Joshi,Male,60,Jaipur,Rajasthan,North,2023-03-14,Returning
+C0028,Karan Khan,Male,30,Surat,Gujarat,West,2023-09-06,New
+C0029,Riya Deshmukh,Prefer not to say,21,Patna,Bihar,East,2024-03-09,Returning
+C0030,Ira Khan,Female,33,Delhi,Delhi,North,2024-02-17,New
+C0031,Sai Kulkarni,Male,33,Bhubaneswar,Odisha,East,2024-03-08,Returning
+C0032,Sneha Patil,Female,59,Lucknow,Uttar Pradesh,North,2025-04-07,VIP
+C0033,Aanya Verma,Male,49,Delhi,Delhi,North,2025-08-06,Returning
+C0034,Priya Sharma,Male,34,Kolkata,West Bengal,East,2023-06-18,VIP
+C0035,Sneha Iyer,Prefer not to say,49,Patna,Bihar,East,2024-03-09,New
+C0036,Ishaan Nair,Prefer not to say,21,Chennai,Tamil Nadu,South,2023-03-01,Returning
+C0037,Karan Mehta,Prefer not to say,28,Delhi,Delhi,North,2024-08-21,New
+C0038,Meera Patil,Prefer not to say,33,Chandigarh,Chandigarh,North,2023-03-12,New
+C0039,Aditya Gupta,Prefer not to say,55,Mumbai,Maharashtra,West,2024-09-26,Returning
+C0040,Ira Joshi,Male,43,Hyderabad,Telangana,South,2023-07-29,New
+C0041,Aditya Sharma,Male,57,Kochi,Kerala,South,2023-11-20,VIP
+C0042,Reyansh Mehta,Male,26,Delhi,Delhi,North,2024-07-04,VIP
+C0043,Anaya Verma,Male,52,Chandigarh,Chandigarh,North,2024-01-14,Returning
+C0044,Vihaan Pawar,Female,34,Jaipur,Rajasthan,North,2024-11-10,New
+C0045,Anaya Reddy,Female,63,Chandigarh,Chandigarh,North,2023-10-06,New
+C0046,Vivaan Patil,Prefer not to say,45,Kochi,Kerala,South,2023-09-15,Returning
+C0047,Arjun Iyer,Male,28,Delhi,Delhi,North,2023-12-08,Returning
+C0048,Aditya Pawar,Prefer not to say,27,Kolkata,West Bengal,East,2023-04-25,Returning
+C0049,Arjun Sharma,Male,41,Chennai,Tamil Nadu,South,2024-03-16,Returning
+C0050,Aanya Iyer,Female,40,Jaipur,Rajasthan,North,2023-08-04,Returning
+C0051,Aanya Das,Female,29,Bhubaneswar,Odisha,East,2025-08-05,Returning
+C0052,Ira Khan,Male,60,Chandigarh,Chandigarh,North,2025-01-24,Returning
+C0053,Vihaan Gupta,Female,48,Ahmedabad,Gujarat,West,2023-06-13,New
+C0054,Aanya Joshi,Female,60,Patna,Bihar,East,2023-11-09,New
+C0055,Aditya Khan,Male,40,Hyderabad,Telangana,South,2025-06-04,Returning
+C0056,Vihaan Pawar,Male,29,Patna,Bihar,East,2023-01-29,Returning
+C0057,Meera Gupta,Male,64,Bengaluru,Karnataka,South,2023-04-22,Returning
+C0058,Ishaan Joshi,Male,20,Kolkata,West Bengal,East,2024-01-30,Returning
+C0059,Riya Patil,Prefer not to say,39,Chandigarh,Chandigarh,North,2024-01-08,Returning
+C0060,Anaya Iyer,Male,38,Jaipur,Rajasthan,North,2024-06-03,New
+C0061,Riya Iyer,Male,61,Chennai,Tamil Nadu,South,2023-07-16,Returning
+C0062,Sneha Das,Female,37,Ahmedabad,Gujarat,West,2024-02-20,New
+C0063,Neha Deshmukh,Prefer not to say,31,Patna,Bihar,East,2024-04-21,Returning
+C0064,Rahul Iyer,Prefer not to say,57,Mumbai,Maharashtra,West,2023-10-18,New
+C0065,Reyansh Verma,Female,20,Ahmedabad,Gujarat,West,2023-08-19,New
+C0066,Riya Pawar,Prefer not to say,54,Kolkata,West Bengal,East,2024-04-11,New
+C0067,Aanya Verma,Prefer not to say,62,Guwahati,Assam,East,2024-02-14,New
+C0068,Sai Khan,Prefer not to say,51,Lucknow,Uttar Pradesh,North,2023-08-13,Returning
+C0069,Arjun Khan,Male,60,Mumbai,Maharashtra,West,2024-04-12,Returning
+C0070,Rahul Gupta,Prefer not to say,46,Kochi,Kerala,South,2024-09-19,Returning
+C0071,Aanya Das,Prefer not to say,35,Guwahati,Assam,East,2023-09-23,Returning
+C0072,Neha Patil,Prefer not to say,36,Bhubaneswar,Odisha,East,2023-10-09,New
+C0073,Sneha Patil,Female,27,Hyderabad,Telangana,South,2025-07-03,New
+C0074,Riya Gupta,Male,52,Pune,Maharashtra,West,2023-03-07,Returning
+C0075,Riya Gupta,Prefer not to say,62,Chandigarh,Chandigarh,North,2025-05-02,New
+C0076,Saanvi Kulkarni,Male,44,Guwahati,Assam,East,2023-01-07,Returning
+C0077,Diya Gupta,Male,19,Surat,Gujarat,West,2023-08-13,New
+C0078,Neha Pawar,Female,57,Bhubaneswar,Odisha,East,2025-05-10,Returning
+C0079,Riya Verma,Male,29,Kolkata,West Bengal,East,2023-03-27,New
+C0080,Neha Singh,Male,42,Patna,Bihar,East,2023-08-05,New
+C0081,Aditya Deshmukh,Female,65,Patna,Bihar,East,2025-05-04,Returning
+C0082,Aditya Khan,Prefer not to say,20,Chennai,Tamil Nadu,South,2024-10-27,Returning
+C0083,Aarav Reddy,Female,33,Pune,Maharashtra,West,2025-05-09,New
+C0084,Diya Khan,Male,28,Chandigarh,Chandigarh,North,2024-04-21,Returning
+C0085,Vihaan Reddy,Female,37,Chandigarh,Chandigarh,North,2023-11-15,Returning
+C0086,Reyansh Patil,Prefer not to say,62,Guwahati,Assam,East,2025-01-02,Returning
+C0087,Anaya Das,Prefer not to say,56,Mumbai,Maharashtra,West,2024-12-14,Returning
+C0088,Riya Iyer,Male,22,Jaipur,Rajasthan,North,2024-06-29,Returning
+C0089,Riya Das,Male,24,Bengaluru,Karnataka,South,2025-05-19,New
+C0090,Arjun Gupta,Female,64,Kochi,Kerala,South,2024-12-25,Returning
+C0091,Riya Das,Prefer not to say,55,Kochi,Kerala,South,2024-04-21,New
+C0092,Neha Joshi,Male,54,Mumbai,Maharashtra,West,2023-10-13,Returning
+C0093,Karan Das,Male,29,Patna,Bihar,East,2023-01-30,Returning
+C0094,Diya Pawar,Prefer not to say,62,Hyderabad,Telangana,South,2023-12-15,Returning
+C0095,Aanya Nair,Male,49,Chandigarh,Chandigarh,North,2023-03-29,Returning
+C0096,Karan Deshmukh,Female,23,Surat,Gujarat,West,2024-10-23,New
+C0097,Ishaan Singh,Male,53,Bhubaneswar,Odisha,East,2023-11-10,Returning
+C0098,Neha Kulkarni,Male,34,Patna,Bihar,East,2023-12-27,New
+C0099,Sneha Khan,Prefer not to say,29,Ahmedabad,Gujarat,West,2023-05-03,New
+C0100,Ishaan Khan,Prefer not to say,56,Patna,Bihar,East,2025-01-11,New
+C0101,Aanya Singh,Female,37,Chandigarh,Chandigarh,North,2023-10-31,New
+C0102,Vivaan Mehta,Male,62,Ahmedabad,Gujarat,West,2023-02-16,VIP
+C0103,Aarav Reddy,Male,48,Kolkata,West Bengal,East,2025-06-12,Returning
+C0104,Diya Das,Male,25,Chennai,Tamil Nadu,South,2023-02-22,Returning
+C0105,Ishaan Iyer,Prefer not to say,21,Guwahati,Assam,East,2023-03-17,New
+C0106,Vihaan Mehta,Male,56,Bengaluru,Karnataka,South,2023-09-12,Returning
+C0107,Neha Kulkarni,Prefer not to say,45,Surat,Gujarat,West,2024-04-06,New
+C0108,Reyansh Iyer,Female,34,Delhi,Delhi,North,2025-02-20,Returning
+C0109,Sneha Patil,Female,18,Pune,Maharashtra,West,2023-06-27,New
+C0110,Aanya Kulkarni,Prefer not to say,36,Patna,Bihar,East,2023-02-03,Returning
+C0111,Aanya Pawar,Male,58,Kolkata,West Bengal,East,2024-12-04,Returning
+C0112,Sneha Joshi,Prefer not to say,27,Surat,Gujarat,West,2023-04-28,VIP
+C0113,Sai Khan,Male,56,Mumbai,Maharashtra,West,2023-03-03,Returning
+C0114,Neha Nair,Male,62,Kochi,Kerala,South,2023-05-08,New
+C0115,Aditya Reddy,Female,45,Kochi,Kerala,South,2024-03-24,Returning
+C0116,Aanya Iyer,Prefer not to say,55,Bengaluru,Karnataka,South,2023-04-04,VIP
+C0117,Sai Deshmukh,Prefer not to say,59,Bengaluru,Karnataka,South,2025-02-20,New
+C0118,Riya Iyer,Male,23,Chennai,Tamil Nadu,South,2024-08-22,Returning
+C0119,Vihaan Das,Female,39,Patna,Bihar,East,2023-11-25,New
+C0120,Priya Das,Prefer not to say,20,Patna,Bihar,East,2024-11-09,Returning
+C0121,Vihaan Khan,Male,50,Hyderabad,Telangana,South,2023-11-28,Returning
+C0122,Vivaan Joshi,Prefer not to say,41,Lucknow,Uttar Pradesh,North,2024-02-28,Returning
+C0123,Vivaan Joshi,Male,53,Guwahati,Assam,East,2025-02-17,New
+C0124,Karan Patil,Female,58,Kochi,Kerala,South,2025-06-20,Returning
+C0125,Sneha Sharma,Prefer not to say,44,Pune,Maharashtra,West,2023-11-15,New
+C0126,Arjun Deshmukh,Prefer not to say,36,Lucknow,Uttar Pradesh,North,2023-05-01,Returning
+C0127,Karan Deshmukh,Female,47,Kochi,Kerala,South,2025-05-04,Returning
+C0128,Meera Mehta,Prefer not to say,26,Bhubaneswar,Odisha,East,2025-08-01,Returning
+C0129,Rahul Kulkarni,Female,36,Kochi,Kerala,South,2023-12-15,Returning
+C0130,Sneha Deshmukh,Male,39,Bhubaneswar,Odisha,East,2024-04-02,Returning
+C0131,Reyansh Nair,Female,54,Guwahati,Assam,East,2023-11-26,New
+C0132,Karan Nair,Male,42,Kolkata,West Bengal,East,2023-11-22,VIP
+C0133,Arjun Mehta,Prefer not to say,39,Surat,Gujarat,West,2023-02-07,Returning
+C0134,Neha Sharma,Prefer not to say,27,Kolkata,West Bengal,East,2024-06-22,New
+C0135,Diya Singh,Prefer not to say,62,Mumbai,Maharashtra,West,2024-04-25,New
+C0136,Sneha Gupta,Male,58,Jaipur,Rajasthan,North,2025-05-22,Returning
+C0137,Aditya Joshi,Prefer not to say,61,Kolkata,West Bengal,East,2024-09-24,VIP
+C0138,Vihaan Khan,Prefer not to say,63,Mumbai,Maharashtra,West,2024-03-20,Returning
+C0139,Anaya Pawar,Female,20,Bhubaneswar,Odisha,East,2024-12-11,New
+C0140,Saanvi Gupta,Female,33,Jaipur,Rajasthan,North,2024-01-03,Returning
+C0141,Aditya Reddy,Male,57,Pune,Maharashtra,West,2023-06-29,Returning
+C0142,Neha Iyer,Male,47,Bhubaneswar,Odisha,East,2023-08-26,New
+C0143,Anaya Iyer,Prefer not to say,28,Lucknow,Uttar Pradesh,North,2025-07-11,New
+C0144,Riya Nair,Male,47,Hyderabad,Telangana,South,2024-10-16,Returning
+C0145,Karan Patil,Female,42,Surat,Gujarat,West,2025-05-23,Returning
+C0146,Priya Kulkarni,Female,54,Hyderabad,Telangana,South,2023-01-23,Returning
+C0147,Anaya Khan,Female,56,Lucknow,Uttar Pradesh,North,2025-05-02,Returning
+C0148,Diya Iyer,Prefer not to say,60,Pune,Maharashtra,West,2024-09-27,Returning
+C0149,Vivaan Kulkarni,Male,20,Mumbai,Maharashtra,West,2025-07-14,Returning
+C0150,Anaya Singh,Prefer not to say,44,Mumbai,Maharashtra,West,2025-07-20,New
+C0151,Rahul Pawar,Male,28,Ahmedabad,Gujarat,West,2024-06-27,New
+C0152,Ira Khan,Female,47,Patna,Bihar,East,2025-02-03,VIP
+C0153,Priya Das,Prefer not to say,41,Pune,Maharashtra,West,2025-05-30,New
+C0154,Sneha Patil,Male,41,Kolkata,West Bengal,East,2023-09-28,Returning
+C0155,Saanvi Patil,Prefer not to say,32,Kochi,Kerala,South,2025-04-22,Returning
+C0156,Aditya Iyer,Male,62,Chennai,Tamil Nadu,South,2024-10-25,New
+C0157,Vivaan Sharma,Male,49,Kolkata,West Bengal,East,2023-05-24,New
+C0158,Neha Singh,Prefer not to say,65,Pune,Maharashtra,West,2024-02-02,Returning
+C0159,Riya Iyer,Female,49,Bhubaneswar,Odisha,East,2025-06-25,Returning
+C0160,Saanvi Joshi,Male,46,Bengaluru,Karnataka,South,2024-12-07,VIP
+C0161,Saanvi Mehta,Prefer not to say,40,Bengaluru,Karnataka,South,2024-12-03,New
+C0162,Neha Patil,Prefer not to say,31,Chennai,Tamil Nadu,South,2023-05-06,Returning
+C0163,Ira Joshi,Female,54,Delhi,Delhi,North,2025-03-16,New
+C0164,Aanya Singh,Female,56,Pune,Maharashtra,West,2025-04-12,New
+C0165,Diya Khan,Female,25,Pune,Maharashtra,West,2024-07-07,Returning
+C0166,Saanvi Khan,Female,55,Chandigarh,Chandigarh,North,2023-01-16,New
+C0167,Arjun Nair,Male,51,Ahmedabad,Gujarat,West,2023-02-23,New
+C0168,Saanvi Mehta,Prefer not to say,24,Lucknow,Uttar Pradesh,North,2024-04-04,Returning
+C0169,Rahul Kulkarni,Male,59,Mumbai,Maharashtra,West,2025-01-14,VIP
+C0170,Priya Gupta,Prefer not to say,24,Lucknow,Uttar Pradesh,North,2025-05-17,Returning
+C0171,Aditya Singh,Prefer not to say,27,Kolkata,West Bengal,East,2025-07-09,New
+C0172,Meera Mehta,Male,47,Hyderabad,Telangana,South,2024-01-26,Returning
+C0173,Vihaan Das,Prefer not to say,59,Kolkata,West Bengal,East,2025-03-23,Returning
+C0174,Aanya Gupta,Male,47,Surat,Gujarat,West,2024-04-07,New
+C0175,Ira Iyer,Male,41,Jaipur,Rajasthan,North,2024-03-13,VIP
+C0176,Aditya Patil,Male,24,Kolkata,West Bengal,East,2023-04-04,Returning
+C0177,Vivaan Reddy,Prefer not to say,53,Chennai,Tamil Nadu,South,2024-07-23,New
+C0178,Riya Das,Prefer not to say,21,Lucknow,Uttar Pradesh,North,2023-12-29,VIP
+C0179,Ishaan Mehta,Female,27,Hyderabad,Telangana,South,2023-04-17,Returning
+C0180,Sneha Singh,Female,35,Mumbai,Maharashtra,West,2023-12-25,Returning
